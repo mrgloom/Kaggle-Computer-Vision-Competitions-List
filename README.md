@@ -4,6 +4,7 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/digit-recognizer
 
 + https://www.kaggle.com/c/dogs-vs-cats
+  - [submission disabled]
 + https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
   - https://github.com/mrgloom/kaggle-dogs-vs-cats-solution [DIGITS + Caffe]
   
