@@ -5,7 +5,7 @@ List of Kaggle competitions in the field of Computer Vision
 
 + https://www.kaggle.com/c/dogs-vs-cats
 + https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
-  - https://github.com/mrgloom/kaggle-dogs-vs-cats-solution
+  - https://github.com/mrgloom/kaggle-dogs-vs-cats-solution [DIGITS + Caffe]
   
 + https://www.kaggle.com/c/diabetic-retinopathy-detection
 
@@ -51,7 +51,7 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection
 
 + https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count
-  - https://github.com/mrgloom/Kaggle-Sea-Lions-Solution
+  - https://github.com/mrgloom/Kaggle-Sea-Lions-Solution [Keras]
 
 + https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data
 
