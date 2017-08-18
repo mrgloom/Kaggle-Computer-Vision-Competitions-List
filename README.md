@@ -52,7 +52,9 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count
   - https://github.com/mrgloom/Kaggle-Sea-Lions-Solution [Keras]
 
-+ https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data
++ https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
+
++ https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening
 
 + https://www.kaggle.com/c/carvana-image-masking-challenge
 
