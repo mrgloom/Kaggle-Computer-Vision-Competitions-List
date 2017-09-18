@@ -57,6 +57,7 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening
 
 + https://www.kaggle.com/c/carvana-image-masking-challenge
+  -[TO LOOK AT] https://github.com/petrosgk/Kaggle-Carvana-Image-Masking-Challenge
 
 
 
