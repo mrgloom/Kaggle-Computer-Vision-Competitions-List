@@ -59,6 +59,11 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/carvana-image-masking-challenge
   - [TO LOOK AT] https://github.com/petrosgk/Kaggle-Carvana-Image-Masking-Challenge
 
++ https://www.kaggle.com/c/cdiscount-image-classification-challenge
+
++ https://www.kaggle.com/c/dog-breed-identification
+
++ https://www.kaggle.com/c/statoil-iceberg-classifier-challenge
 
 
 ## Weakly related to computer vision:
