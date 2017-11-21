@@ -32,6 +32,7 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
 + https://www.kaggle.com/c/noaa-right-whale-recognition
+   - To look at https://www.kaggle.com/c/noaa-right-whale-recognition/discussion/16328
 
 + https://www.kaggle.com/c/shelter-animal-outcomes
 
