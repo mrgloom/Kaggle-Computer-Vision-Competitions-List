@@ -54,7 +54,7 @@ List of Kaggle competitions in the field of Computer Vision
   - https://github.com/mrgloom/Kaggle-Sea-Lions-Solution [Keras]
 
 + https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
-  - https://github.com/mratsim/Amazon-Forest-Computer-Vision
+  - [TO LOOK AT] https://github.com/mratsim/Amazon-Forest-Computer-Vision
 
 + https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening
 
