@@ -62,6 +62,7 @@ List of Kaggle competitions in the field of Computer Vision
   - [TO LOOK AT] https://github.com/asanakoy/kaggle_carvana_segmentation
   - [TO LOOK AT] https://github.com/petrosgk/Kaggle-Carvana-Image-Masking-Challenge
   - [TO LOOK AT] https://github.com/lyakaap/Kaggle-Carvana-3rd-Place-Solution
+  - [TO LOOK AT] https://github.com/ternaus/TernausNet
 
 + https://www.kaggle.com/c/cdiscount-image-classification-challenge
 
