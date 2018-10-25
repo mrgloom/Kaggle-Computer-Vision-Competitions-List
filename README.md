@@ -72,6 +72,9 @@ List of Kaggle competitions in the field of Computer Vision
 
 + https://www.kaggle.com/c/data-science-bowl-2018
 
++ https://www.kaggle.com/c/tgs-salt-identification-challenge
+- [TO LOOK AT] https://github.com/lRomul/argus-tgs-salt
+
 
 ## Weakly related to computer vision:
   + https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
