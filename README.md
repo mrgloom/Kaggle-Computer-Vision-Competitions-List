@@ -76,6 +76,12 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/tgs-salt-identification-challenge
 - [TO LOOK AT] https://github.com/lRomul/argus-tgs-salt
 
++ https://www.kaggle.com/c/sp-society-camera-model-identification/
+  [TO LOOK AT] https://github.com/cepera-ang/kaggle-sp-society-camera-model-identification
+  
+  
++ https://www.kaggle.com/c/humpback-whale-identification
+
 
 ## Weakly related to computer vision:
   + https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
