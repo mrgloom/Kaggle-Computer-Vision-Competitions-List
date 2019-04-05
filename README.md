@@ -5,6 +5,7 @@ List of Kaggle competitions in the field of Computer Vision
 
 + https://www.kaggle.com/c/dogs-vs-cats
   - [submission disabled]
+  
 + https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
   - https://github.com/mrgloom/kaggle-dogs-vs-cats-solution [DIGITS + Caffe]
   
@@ -74,15 +75,15 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/data-science-bowl-2018
 
 + https://www.kaggle.com/c/tgs-salt-identification-challenge
-- [TO LOOK AT] https://github.com/lRomul/argus-tgs-salt
+  - [TO LOOK AT] https://github.com/lRomul/argus-tgs-salt
 
 + https://www.kaggle.com/c/sp-society-camera-model-identification/
-  [TO LOOK AT] https://github.com/cepera-ang/kaggle-sp-society-camera-model-identification
+  - [TO LOOK AT] https://github.com/cepera-ang/kaggle-sp-society-camera-model-identification
   
 + https://www.kaggle.com/c/humpback-whale-identification
 
 + https://www.kaggle.com/c/imet-2019-fgvc6/data
-  [TO LOOK AT] https://github.com/lopuhin/kaggle-imet-2019
+  - [TO LOOK AT] https://github.com/lopuhin/kaggle-imet-2019
 
 ## Weakly related to computer vision:
   + https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
