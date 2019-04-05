@@ -79,9 +79,10 @@ List of Kaggle competitions in the field of Computer Vision
 + https://www.kaggle.com/c/sp-society-camera-model-identification/
   [TO LOOK AT] https://github.com/cepera-ang/kaggle-sp-society-camera-model-identification
   
-  
 + https://www.kaggle.com/c/humpback-whale-identification
 
++ https://www.kaggle.com/c/imet-2019-fgvc6/data
+  [TO LOOK AT] https://github.com/lopuhin/kaggle-imet-2019
 
 ## Weakly related to computer vision:
   + https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
