@@ -84,6 +84,8 @@ List of Kaggle competitions in the field of Computer Vision
 
 + https://www.kaggle.com/c/imet-2019-fgvc6/data
   - [TO LOOK AT] https://github.com/lopuhin/kaggle-imet-2019
+  
++ https://www.kaggle.com/c/landmark-retrieval-challenge
 
 ## Weakly related to computer vision:
   + https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
