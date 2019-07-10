@@ -15,6 +15,9 @@ List of Kaggle competitions in the field of Computer Vision
 
 + https://www.kaggle.com/c/datasciencebowl
 
++ https://www.kaggle.com/c/data-science-bowl-2018
+ - [TO LOOK AT] https://github.com/amirassov/data-science-bowl
+
 + https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge
 
 + https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
