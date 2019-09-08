@@ -92,6 +92,8 @@ List of Kaggle competitions in the field of Computer Vision
 
 + https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/
   - [TO LOOK AT] https://github.com/amirassov/kaggle-imaterialist
+  
++ https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/
 
 ## Weakly related to computer vision:
   + https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
