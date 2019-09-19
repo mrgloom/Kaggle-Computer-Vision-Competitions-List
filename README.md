@@ -95,6 +95,8 @@ List of Kaggle competitions in the field of Computer Vision
   
 + https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/
 
++ https://www.kaggle.com/c/severstal-steel-defect-detection
+
 ## Weakly related to computer vision:
   + https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
     - https://github.com/mrgloom/Kaggle-Two-Sigma-Connect-Rental-Listing-Inquiries-Feature-Visualization [Caffe + sklearn]
