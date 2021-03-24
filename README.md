@@ -103,6 +103,8 @@ List of Kaggle competitions in the field of Computer Vision
 
 + https://www.kaggle.com/c/generative-dog-images/
 
++ https://www.kaggle.com/c/gan-getting-started/
+
 ## Weakly related to computer vision:
   + https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
     - https://github.com/mrgloom/Kaggle-Two-Sigma-Connect-Rental-Listing-Inquiries-Feature-Visualization [Caffe + sklearn]
